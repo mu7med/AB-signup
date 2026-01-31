@@ -1,0 +1,19 @@
+# requirements.txt
+# Core Browser Automation
+browser-use>=0.5.0
+playwright>=1.40.0
+
+# LLM Integration
+langchain-openai>=0.1.0
+langchain-core>=0.1.0
+
+# Environment & Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# Async HTTP (for SMS API integration)
+aiohttp>=3.9.0
+httpx>=0.27.0
+
+# Optional: For advanced persona generation
+faker>=24.0.0
