@@ -1,0 +1,38 @@
+# Environment
+.env
+.env.local
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Sessions and screenshots
+sessions/
+screenshots/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Agent directories
+.agent/
